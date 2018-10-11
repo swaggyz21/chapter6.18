@@ -15,3 +15,4 @@ if __name__ == '__main__':
     print("")
     print("Number of characters: %s" %(get_num_of_characters(inputStr)))
     output_without_whitespace(inputStr)
+ZACK HELPED WITH THIS
